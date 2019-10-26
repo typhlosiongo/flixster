@@ -13,6 +13,7 @@
 ### App Walkthough GIF
 
 <img src="https://i.imgur.com/h0qH9OH.gif" width=250><br>
+https://i.imgur.com/h0qH9OH.gif
 
 ### Notes
 image cell resizing was tricky while doing a cell collection
