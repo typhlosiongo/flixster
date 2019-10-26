@@ -12,7 +12,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://media.giphy.com/media/MEXrSnhWrHstoMfwkm/giphy.gif" width=250><br>
+<img src="https://i.imgur.com/h0qH9OH.mp4" width=250><br>
 
 ### Notes
 image cell resizing was tricky while doing a cell collection
